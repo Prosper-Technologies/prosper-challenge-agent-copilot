@@ -1,0 +1,27 @@
+backend/.python-version
+  s_8193d56ac6c467::t_acbe9daca3d6d5 1
+backend/pyproject.toml
+  s_8193d56ac6c467::t_805670999f4a5c 1-21
+README.md
+  s_8193d56ac6c467::t_e3eb68975b4968 16,19-20,23-30
+Makefile
+  s_8193d56ac6c467::t_e2b2473abc2ef6 2,4,12-13,16,19-20
+backend/uv.lock
+  s_8193d56ac6c467::t_365aa89b2028de 1-3011
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "0e90708476769fa12b92137f4689422a1e599f05",
+  "prompts": {},
+  "sessions": {
+    "s_8193d56ac6c467": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f0be345a-7571-4e5d-835a-bdc98f45348e",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Marti Serra <marti.serra@useprosper.co>"
+    }
+  }
+}
